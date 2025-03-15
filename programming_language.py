@@ -1,3 +1,8 @@
+'''
+estimate time: 50 minutes
+actual time time: 60 minutes
+'''
+
 class ProgrammingLanguage:
     """Represent information about a programming language."""
 
